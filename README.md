@@ -99,8 +99,6 @@ Gold    →  star schema pronto para consumo analítico
 
 ### Página 1 — Funnel Analysis
 
-![Dashboard](dashboard_preview.png)
-
 **KPIs:**
 - Taxa de conversão (sessões convertidas / total de sessões)
 - Total de sessões
