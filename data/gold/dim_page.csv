@@ -1,0 +1,6 @@
+PageType,funnel_order,PageID,funnel_label
+home,1,1,Home
+product_page,2,2,Product Page
+cart,3,3,Cart
+checkout,4,4,Checkout
+confirmation,5,5,Confirmation
